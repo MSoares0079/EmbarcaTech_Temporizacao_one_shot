@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Temporizacao_one_shot.hex'
+elf = 'build/Temporizacao_one_shot.elf'
